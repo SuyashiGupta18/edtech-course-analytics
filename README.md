@@ -82,22 +82,21 @@ engagement metrics, and outcomes (completion, dropout, ratings).
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Images/Screenshot_dashboard_1.0.png)
+![Power BI Dashboard](Screenshot_dashboard_1.0.png)
 
-![Power BI Dashboard](Images/Screenshot_dashboard_2.0.png)
+![Power BI Dashboard](Screenshot_dashboard_2.0.png)
 
 ## Key Charts
 
-![Dropout Rate by Category](Images/barchart_dropout_rate.png)
+![Dropout Rate by Category](barchart_dropout_rate.png)
 
-![Correlation Heatmap](Images/Heatmap_correlation.png)
+![Correlation Heatmap](Heatmap_correlation.png)
 
-![Average Time spent](Images/barplot_avg_timespent.png)
+![Average Time spent](barplot_avg_timespent.png)
 
-![Completion per percent](Images/hist_comp_percentage.png)
+![Completion per percent](hist_comp_percentage.png)
 
-![Completion Status](Images/Piechart_completion_status.png)
-
+![Completion Status](Piechart_completion_status.png)
 
 
 
